@@ -1,3 +1,6 @@
 ---
+title: This is my title
+layout: post
 ---
-## My Markdown page
+
+Here is my page.
